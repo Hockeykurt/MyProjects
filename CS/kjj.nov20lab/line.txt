@@ -1,0 +1,5 @@
+this is only a test to see if i can read in a whole line
+this is the second line amd logarithms and mathematical tables
+were among the first uses of computing machinery
+charles babbage became interested in the problem of table
+making and the elimination of errors in tables
